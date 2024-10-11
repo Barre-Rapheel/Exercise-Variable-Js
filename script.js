@@ -11,7 +11,7 @@
   
     let city = "San Francisco"; 
   
-    let followers = 109; 
-    let following = 200; 
+    let followers = "109"; 
+    let following = "200"; 
 
    
